@@ -1,23 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Serlokas NE</title>
-</head>
-<body style="background-color: rgb(227, 238, 130);">
-    <main>
-        <h1>404</h1>
-        <h2>Mur mur šeimyna</h2>
-        <img style: "margin-left: 100px" src="https://i.pinimg.com/474x/37/45/9f/37459f5ca31559230c53fecd6800e0ef.jpg" alt="Error">
-<p style="font-size: 50px; font-style: italic"> Katė myli katukus</p>
-<p style="color:rgb(123, 255, 0)">Taip pat mėgsta pienuką</p>
-<a href="#">BACK HOME</a> 
+- jbhkhk
+### lavas
+1. jjjj
+    - jjj
 
-
-    </main>
-    </body>
-</html>
+git config --global user.name
+git config --global user.email
 
 <!-- 
 
