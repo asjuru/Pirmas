@@ -34,6 +34,9 @@ display: block;             is virsaus i apacia (dauguma)
 display: inline;            eina is vienos eiles i kita (a, span)
 display: inline-block;      stengiasi buti vienoje eileje su kitais, bet jei netelpa - VISAS nusoka i nauja eile
 
+float:left (display nebeveikia naudojant float)
+float:right
+
 SPALVOS PANAUDOJIMO VARIACIJOS:
 background-color: rgb(234, 235, 237);
 background-color: #EAEBED;
